@@ -1,1 +1,67 @@
-var _0xf34f=["\x6E\x6F\x64\x65\x2D\x62\x61\x73\x68\x2D\x74\x69\x74\x6C\x65","\x0A\x4C\x6F\x61\x64\x69\x6E\x67\x2E\x2E\x2E","\x6C\x6F\x67","\x49\x66\x20\x54\x68\x69\x73\x20\x54\x61\x6B\x65\x20\x54\x6F\x6F\x20\x6C\x6F\x6E\x67\x20\x6D\x61\x6B\x65\x20\x73\x75\x72\x65\x20\x75\x20\x68\x61\x76\x65\x20\x61\x64\x64\x20\x72\x69\x67\x68\x74\x20\x74\x6F\x6B\x65\x6E\x21","\x66\x73","\x6A\x73\x2D\x79\x61\x6D\x6C","\x2E\x2F\x63\x6F\x6E\x66\x69\x67\x2E\x79\x6D\x6C","\x72\x65\x61\x64\x46\x69\x6C\x65\x53\x79\x6E\x63","\x6C\x6F\x61\x64","\x64\x69\x73\x63\x6F\x72\x64\x2E\x6A\x73","\x71\x75\x69\x63\x6B\x2E\x64\x62","\x70\x61\x74\x68","\x63\x6F\x6D\x6D\x61\x6E\x64\x73","\x6C\x6F\x67\x69\x6E","\x6A\x69\x6D\x70","\x6D\x73","\x6E\x6F\x64\x65\x2D\x66\x65\x74\x63\x68","\x44\x61\x72\x6B\x55\x70\x54\x69\x6D\x65","\x67\x65\x74","\x75\x72\x6C","\x6D\x61\x70","","\x66\x6F\x72\x45\x61\x63\x68","\x50\x6F\x6E\x67","\x72\x65\x61\x64\x79","\x2B\x68\x65\x6C\x70\x20\x7C\x20\x47\x6C\x69\x74\x63\x68\x2D\x55\x70\x74\x69\x6D\x65\x72","\x50\x4C\x41\x59\x49\x4E\x47","\x73\x65\x74\x41\x63\x74\x69\x76\x69\x74\x79","\x75\x73\x65\x72","\x63\x6C\x65\x61\x72","\x1B\x5B\x33\x36\x6D\x25\x73\x1B\x5B\x30\x6D","\x0D\x0A\x20\x20\x20\x20\u2593\u2588\u2588\u2588\u2588\u2588\u2584\x20\x20\u2584\u2584\u2584\x20\x20\x20\x20\x20\x20\x20\u2588\u2588\u2580\u2588\u2588\u2588\x20\x20\x20\u2588\u2588\x20\u2584\u2588\u2580\x20\x20\x0D\x0A\x20\x20\u2592\u2588\u2588\u2580\x20\u2588\u2588\u258C\u2592\u2588\u2588\u2588\u2588\u2584\x20\x20\x20\x20\u2593\u2588\u2588\x20\u2592\x20\u2588\u2588\u2592\x20\u2588\u2588\u2584\u2588\u2592\x20\x20\x20\x0D\x0A\x20\x20\u2591\u2588\u2588\x20\x20\x20\u2588\u258C\u2592\u2588\u2588\x20\x20\u2580\u2588\u2584\x20\x20\u2593\u2588\u2588\x20\u2591\u2584\u2588\x20\u2592\u2593\u2588\u2588\u2588\u2584\u2591\x20\x20\x20\x0D\x0A\x20\x20\u2591\u2593\u2588\u2584\x20\x20\x20\u258C\u2591\u2588\u2588\u2584\u2584\u2584\u2584\u2588\u2588\x20\u2592\u2588\u2588\u2580\u2580\u2588\u2584\x20\x20\u2593\u2588\u2588\x20\u2588\u2584\x20\x20\x20\x0D\x0A\x20\x20\u2591\u2592\u2588\u2588\u2588\u2588\u2593\x20\x20\u2593\u2588\x20\x20\x20\u2593\u2588\u2588\u2592\u2591\u2588\u2588\u2593\x20\u2592\u2588\u2588\u2592\u2592\u2588\u2588\u2592\x20\u2588\u2584\x20\x20\x0D\x0A\x20\x20\x20\u2592\u2592\u2593\x20\x20\u2592\x20\x20\u2592\u2592\x20\x20\x20\u2593\u2592\u2588\u2591\u2591\x20\u2592\u2593\x20\u2591\u2592\u2593\u2591\u2592\x20\u2592\u2592\x20\u2593\u2592\x20\x20\x20\x0D\x0A\x20\x20\x20\u2591\x20\u2592\x20\x20\u2592\x20\x20\x20\u2592\x20\x20\x20\u2592\u2592\x20\u2591\x20\x20\u2591\u2592\x20\u2591\x20\u2592\u2591\u2591\x20\u2591\u2592\x20\u2592\u2591\x20\x20\x20\x20\x20\x0D\x0A\x20\x20\x20\u2591\x20\u2591\x20\x20\u2591\x20\x20\x20\u2591\x20\x20\x20\u2592\x20\x20\x20\x20\x20\u2591\u2591\x20\x20\x20\u2591\x20\u2591\x20\u2591\u2591\x20\u2591\x20\x20\x20\x20\x20\x20\x0D\x0A\x20\x20\x20\x20\x20\u2591\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\u2591\x20\x20\u2591\x20\x20\x20\u2591\x20\x20\x20\x20\x20\u2591\x20\x20\u2591\x20\x20\x20\x20\x20\x20\x20\x0D\x0A\x20\x20\x20\u2591\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20","\x0A\x1B\x5B\x33\x32\x6D\x25\x73\x1B\x5B\x30\x6D","\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x24\x5B\x49\x4E\x46\x4F\x5D\x3A\x20\x4C\x6F\x67\x67\x65\x64\x20\x6F\x6E\x20","\x74\x61\x67","\x1B\x5B\x33\x32\x6D\x25\x73\x1B\x5B\x30\x6D","\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x24\x5B\x49\x4E\x46\x4F\x5D\x3A\x20\x50\x52\x45\x46\x49\x58\x20","\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x24\x5B\x45\x58\x54\x52\x41\x5D\x3A\x20\x47\x4C\x49\x54\x43\x48\x20\x55\x50\x54\x49\x4D\x45\x52","\x0A\x1B\x5B\x33\x31\x6D\x25\x73\x1B\x5B\x30\x6D","\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x24\x5B\x48\x4F\x57\x5D\x3A\x20\x54\x6F\x20\x43\x68\x65\x63\x6B\x20\x43\x6F\x6D\x6D\x61\x6E\x64\x73\x20\x4C\x69\x73\x74\x20\x54\x79\x70\x65\x20","\x68\x65\x6C\x70","\x1B\x5B\x33\x31\x6D\x25\x73\x1B\x5B\x30\x6D","\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x24\x5B\x43\x52\x45\x44\x49\x54\x53\x5D\x3A\x20\x4D\x61\x64\x65\x20\x42\x79\x20\x44\x61\x72\x6B\x42\x6F\x79\x2F\x44\x61\x72\x6B\x4D\x69\x73\x65\x68\x6C\x20\x59\x54","\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x24\x5B\x53\x55\x50\x50\x4F\x52\x54\x5D\x3A\x20\x44\x61\x72\x6B\x44\x65\x76\x73\x3A\x20\x68\x74\x74\x70\x73\x3A\x2F\x2F\x64\x69\x73\x63\x6F\x72\x64\x2E\x67\x67\x2F\x72\x53\x76\x6D\x59\x78\x38\x20","\x6F\x6E","\x2E\x6A\x73","\x65\x6E\x64\x73\x57\x69\x74\x68","\x66\x69\x6C\x74\x65\x72","\x6E\x61\x6D\x65","\x73\x65\x74","\x6D\x65\x73\x73\x61\x67\x65","\x70\x72\x65\x66\x69\x78\x5F","\x69\x64","\x67\x75\x69\x6C\x64","\x62\x6F\x74","\x61\x75\x74\x68\x6F\x72","\x74\x79\x70\x65","\x63\x68\x61\x6E\x6E\x65\x6C","\x64\x6D","\x73\x74\x61\x72\x74\x73\x57\x69\x74\x68","\x63\x6F\x6E\x74\x65\x6E\x74","\x73\x70\x6C\x69\x74","\x74\x72\x69\x6D","\x6C\x65\x6E\x67\x74\x68","\x73\x6C\x69\x63\x65","\x74\x6F\x4C\x6F\x77\x65\x72\x43\x61\x73\x65","\x73\x68\x69\x66\x74","\x68\x61\x73","\x72\x75\x6E","\x65\x72\x72\x6F\x72"];const setTitle=require(_0xf34f[0]);console[_0xf34f[2]](_0xf34f[1]);console[_0xf34f[2]](_0xf34f[3]);const fs=require(_0xf34f[4]);const yaml=require(_0xf34f[5]);const {mainprefix,token}=yaml[_0xf34f[8]](fs[_0xf34f[7]](_0xf34f[6]));const Discord=require(_0xf34f[9]);const client= new Discord.Client();const db=require(_0xf34f[10]);const {join}=require(_0xf34f[11]);const {readdirSync}=require(_0xf34f[4]);client[_0xf34f[12]]=  new Discord.Collection();client[_0xf34f[13]](token);const jimp=require(_0xf34f[14]);const ms=require(_0xf34f[15]);const fetch=require(_0xf34f[16]);setInterval(()=>{var _0x77bexa=db[_0xf34f[18]](_0xf34f[17]);if(!_0x77bexa){return};var _0x77bexb=_0x77bexa[_0xf34f[20]]((_0x77bexc)=>_0x77bexc[_0xf34f[19]]);_0x77bexb[_0xf34f[22]]((_0x77bexd)=>{try{fetch(_0x77bexd)}catch(e){console[_0xf34f[2]](_0xf34f[21]+ e)}});console[_0xf34f[2]](_0xf34f[23])},30000);client[_0xf34f[44]](_0xf34f[24],()=>{client[_0xf34f[28]][_0xf34f[27]](_0xf34f[25],{type:_0xf34f[26]});console[_0xf34f[29]]();console[_0xf34f[2]](_0xf34f[30],`${_0xf34f[31]}`);console[_0xf34f[2]](_0xf34f[32],`${_0xf34f[33]}${client[_0xf34f[28]][_0xf34f[34]]}${_0xf34f[21]}`);console[_0xf34f[2]](_0xf34f[35],`${_0xf34f[36]}${mainprefix}${_0xf34f[21]}`);console[_0xf34f[2]](_0xf34f[35],`${_0xf34f[37]}`);console[_0xf34f[2]](_0xf34f[38],`${_0xf34f[39]}${mainprefix}${_0xf34f[40]}`);console[_0xf34f[2]](_0xf34f[41],`${_0xf34f[42]}`);console[_0xf34f[2]](_0xf34f[41],`${_0xf34f[43]}`)});const commandFiles=readdirSync(join(__dirname,_0xf34f[12]))[_0xf34f[47]]((file)=>file[_0xf34f[46]](_0xf34f[45]));for(const file of commandFiles){const command=require(join(__dirname,_0xf34f[12],`${_0xf34f[21]}${file}${_0xf34f[21]}`));client[_0xf34f[12]][_0xf34f[49]](command[_0xf34f[48]],command)};client[_0xf34f[44]](_0xf34f[50],async (_0x77bex11)=>{let _0x77bex12= await db[_0xf34f[18]](`${_0xf34f[51]}${_0x77bex11[_0xf34f[53]][_0xf34f[52]]}${_0xf34f[21]}`);if(_0x77bex12=== null){_0x77bex12= mainprefix};if(_0x77bex11[_0xf34f[55]][_0xf34f[54]]){return};if(_0x77bex11[_0xf34f[57]][_0xf34f[56]]=== _0xf34f[58]){return};if(_0x77bex11[_0xf34f[60]][_0xf34f[59]](_0x77bex12)){const _0x77bex13=_0x77bex11[_0xf34f[60]][_0xf34f[64]](_0x77bex12[_0xf34f[63]])[_0xf34f[62]]()[_0xf34f[61]](/ +/);const command=_0x77bex13[_0xf34f[66]]()[_0xf34f[65]]();if(!client[_0xf34f[12]][_0xf34f[67]](command)){return};try{client[_0xf34f[12]][_0xf34f[18]](command)[_0xf34f[68]](client,_0x77bex11,_0x77bex13)}catch(error){console[_0xf34f[69]](error)}}})
+// Fully Custom Discord Bot Made By DarkBoy For Free haha
+const setTitle = require('node-bash-title');
+setTitle('🍻 Dark Bot [DarkDevs]');
+console.log("\nLoading...")
+console.log("If This Take Too long make sure u have add right token!")
+const fs = require('fs')
+const yaml = require("js-yaml");
+const { mainprefix , token } = yaml.load(fs.readFileSync("./config.yml"));
+const Discord = require('discord.js')
+const client = new Discord.Client();
+const db = require('quick.db')
+const { join } = require('path');
+const { readdirSync } = require('fs');
+client.commands= new Discord.Collection();
+client.login(token)
+const jimp = require('jimp')
+const ms = require('ms')
+const fetch = require("node-fetch");
+setInterval(() => {
+    var links = db.get("DarkUpTime");
+    if(!links) return;
+    var linkA = links.map(c => c.url)
+    linkA.forEach(link => {
+      try {
+
+        fetch(link)
+      } catch(e) { console.log("" + e) };
+    })
+    console.log("Pong")
+  }, 30000)
+  
+  
+client.on('ready', () => {
+    client.user.setActivity('-help | Glitch-Uptimer', { type: 'PLAYING' });
+    console.clear();
+console.log(`Ready to use`)
+ });
+
+ const commandFiles = readdirSync(join(__dirname, "commands")).filter(file => file.endsWith(".js"));
+
+ for (const file of commandFiles) {
+     const command = require(join(__dirname, "commands", `${file}`));
+     client.commands.set(command.name , command);
+ }
+ 
+ client.on("message", async message => {
+    let prefix = await db.get(`prefix_${message.guild.id}`);
+   if(prefix === null) prefix = mainprefix;
+       if(message.author.bot) return;
+       if(message.channel.type === 'dm') return;
+   
+       if(message.content.startsWith(prefix)) {
+           const args = message.content.slice(prefix.length).trim().split(/ +/);
+   
+           const command = args.shift().toLowerCase();
+   
+           if(!client.commands.has(command)) return;
+   
+   
+           try {
+               client.commands.get(command).run(client, message, args);
+   
+           } catch (error){
+               console.error(error);
+           }
+        }
+   })
