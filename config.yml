@@ -2,4 +2,5 @@
 ## Main bot Config ##
 mainprefix: '' # Main Prefix 
 token: '' # Token of your bot
+status: '' # ur bot status
 ## Join Support Guild: https://discord.gg/6KYRXQC  ##
