@@ -1,4 +1,2 @@
 # Glitch Uptimer
-Made by dark codes
-# Join Our Discord for more epic stuffs
-https://discord.gg/devs
+Made by dark codes fixed by niro
