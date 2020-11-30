@@ -1211,6 +1211,6 @@ client[_0xda4b[28]](_0xda4b[51], async _0x90d8x17 => {
         [_0xda4b[69]](client, _0x90d8x17, _0x90d8x19);
     } catch (error) {
       console[_0xda4b[70]](error);
-    }
-  }
-});
+    }//$28//made by dark coders & fixed by nito
+  }////made by dark coders & fixed by nito
+});//made by dark coders & fixed by nito

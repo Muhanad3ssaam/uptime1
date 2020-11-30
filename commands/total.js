@@ -4,6 +4,1128 @@ const fs = require("fs");
 const yaml = require("js-yaml");
 const { re } = require("mathjs"); // made byy darkboy
 const { mainprefix, token } = yaml.load(fs.readFileSync("./config.yml"));
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
+//made by dark coders & fixed by nito
+
 
 module.exports = {
   name: "total",
