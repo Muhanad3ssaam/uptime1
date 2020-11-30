@@ -1,7 +1,7 @@
-const Discord = require("discord.js");//made by dark coders & fixed by nito
-const db = require("quick.db");//made by dark coders & fixed by nito
-const fs = require("fs");//made by dark coders & fixed by nito
-const yaml = require("js-yaml");//made by dark coders & fixed by nito
+const Discord = require("discord.js"); //made by dark coders & fixed by nito
+const db = require("quick.db"); //made by dark coders & fixed by nito
+const fs = require("fs"); //made by dark coders & fixed by nito
+const yaml = require("js-yaml"); //made by dark coders & fixed by nito
 const { re } = require("mathjs"); //made by dark coders & fixed by nito
 const { mainprefix, token } = yaml.load(fs.readFileSync("./config.yml"));
 //made by dark coders & fixed by nito
@@ -649,10 +649,6 @@ const { mainprefix, token } = yaml.load(fs.readFileSync("./config.yml"));
 //made by dark coders & fixed by nito
 
 //made by dark coders & fixed by nito
-
-
-
-
 
 module.exports = {
   name: "delsite",

@@ -1126,7 +1126,6 @@ const { mainprefix, token } = yaml.load(fs.readFileSync("./config.yml"));
 
 //made by dark coders & fixed by nito
 
-
 module.exports = {
   name: "total",
   description: "total glitch projects",
